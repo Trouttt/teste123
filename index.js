@@ -1,7 +1,9 @@
-console.log("oieeeeaaaaajdjz xcxz");
+console.log("rafael");
 
 console.log("teste");
 
-const a = "titektaktpaoktas";
 
-console.log(a);
+const a = ["titektaktpaoktas"];
+console.log(a[0]); 
+a[0] = "novoValor";
+console.log(a[0]); 
